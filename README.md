@@ -2,7 +2,7 @@
 
 Materiales del Webinar del 09-Jun-2022
 
-Puedes descargar la presentación haciendo clic derecho y eligiendo la opción "Descargar Como.." en este [ENLACE](docs/Modelos_en_Produccion.pdf)
+Puedes descargar la presentación haciendo clic derecho y eligiendo la opción "Descargar Como.." en este [ENLACE](docs/Pres_DMC_DS.pdf)
 
 Y desde aquí puedes acceder a la [grabación](https://www.facebook.com/datamining.pe/videos/561460648936273) en Facebook (inicia en el minuto 20):
 
